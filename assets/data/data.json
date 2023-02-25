@@ -1,0 +1,129 @@
+{
+    "profile":{
+        "projects":[
+            {
+                "tagName":"AbbVie",
+                "title":"AbbVie - Sypher",
+                "skills":"Vuejs, JavaScript, Chartjs, Vuetify, HTML 5, SCSS, JSON,and Visual studio code.",
+                "description":"The Sypher application was used by the client to visualize all the current data about their products and all their metrics and their performance. The application uses Salesforce as its back end and Vue JS as its front end. The front-end consist of multiple reusable components which were developed to get the data from back end and use visualization library like Chartjs to show all the details as per the requirements if the client.",
+                "responsiblities":"UI development, involved in agile process, and daily Scrums to discuss the application development experience to deliver in time. Developed various components for the frontend using VUE JS.",
+                "size":"4 Members",
+                "location":"Chennai",
+                "iconEnable":true,
+                "logo":"abbvie.svg"
+            },
+            {
+                "tagName":"BOSTON PRIVATE BANK",
+                "title":"BOSTON PRIVATE BANK AN SVB COMPANY",
+                "skills":"Angular 7, CLI, Typescript, HTML 5, SCSS, Bootstrap 4, JSON, JavaScript, and Visual studio code.",
+                "description":"In the Inventory application project the requirement of the client is to integrate all the information of the servers, ESXi host and vCenters which are on the datacenter and cloud servers which are in the azure cloud in a single dashboard which is updated 2 time daily. We achieved it by getting the data of data center devices by using Power-shell, Power cli and a separate set up to get the data from the Azure cloud and formatted them using power-shell and stored them as json files in the web server and using angular services we got the data into the application. Which will have all the information.",
+                "responsiblities":"UI development, involved in agile process, and daily Scrums to discuss the application development experience to deliver in time. Developed various components for the frontend using Angular 2.",
+                "size":"3 Members",
+                "location":"Chennai",
+                "iconEnable":true,
+                "logo":"boston.svg"
+            },
+            {
+                "tagName":"INFOSYS LEX CHANNEL",
+                "title":"INFOSYS LEX– Mercedes-Benz (DIAMLER) LEARNING CHANNEL",
+                "skills":"HTML 5, CSS, Bootstrap 4 and Visual studio code.",
+                "description":"In the Infosys Lex - Mercedes-Benz (Daimler) Learning Channel project we were building a channel page for a specific client. Infosys Lex is an internal Learning platform. Which contains courses and trainings for the employees. In lex there are different channels of different clients. We built the learning Channel for the Mercedes-Benz (Daimler) using HTML for the structure CSS and Bootstrap for Styling and basic JavaScript for basic functions in the channel.",
+                "responsiblities":"UI development, involved in agile process, and daily Scrums to discuss the application development experience to deliver in time. Developed various components for the frontend using Angular.",
+                "size":"2 Members",
+                "location":"Chennai",
+                "iconEnable":true,
+                "logo":"mb.svg"
+            },
+            {
+                "tagName":"E-KART",
+                "title":"E-KART",
+                "skills":"MS IIS, HTML 5, CSS, Bootstrap 4 and Visual studio code.",
+                "description":"In the E-Kart application is an E-commerce application. Where the seller can list products to the costumer. The costumer can add the products in the cart and order the products.",
+                "responsiblities":"UI development, involved in the team to deploy the application using Microsoft IIS in the test environment.",
+                "size":"6 Members",
+                "location":"Chennai",
+                "iconEnable":false,
+                "logo":""
+            },
+            {
+                "tagName":"Gentle Hands Mahima Charitable Trust",
+                "title":"Gentle Hands Mahima Charitable Trust",
+                "skills":"Angular 8, HTML 5, CSS, Bootstrap 4 and Visual studiocode.",
+                "description":"The Website for the Charitable trust was Developed as per the client’s requirement. It follows the responsive web design.",
+                "responsiblities":"This website was designed end to end by me using Angular 8, HTML, CSS and bootstrap. Hosting of the website to the Internet.",
+                "size":"1 Members",
+                "location":"Chennai",
+                "iconEnable":false,
+                "logo":""
+            }
+        ],
+        "experience":[
+            {
+                "title":"Associate - Projects",
+                "Designation":"Associate - Projects",
+                "company":"Cognizant",
+                "joining":"2021-10-22",
+                "releving":"",
+                "clients":["AbbVie"]
+            },
+            {
+                "title":"Technical Operations Associate",
+                "Designation":"Technical Operations Associate",
+                "company":"Infosys",
+                "joining":"2021-05-01",
+                "releving":"2021-10-18",
+                "clients":["Mercedes-Benz (DIAMLER)"]
+            },
+            {
+                "title":"Senior Executive",
+                "Designation":"Senior Executive",
+                "company":"Infosys",
+                "joining":"2020-01-01",
+                "releving":"2020-05-01",
+                "clients":["Boston Private"]
+            },
+            {
+                "title":"Executive",
+                "Designation":"Executive",
+                "company":"Infosys",
+                "joining":"2018-09-01",
+                "releving":"2019-12-01",
+                "clients":["Boston Private"]
+            },
+            {
+                "title":"Trainee",
+                "Designation":"Trainee",
+                "company":"Infosys",
+                "joining":"2018-09-01",
+                "releving":"2018-09-01",
+                "project":["Trainee"]
+            }
+        ],
+        "education":[
+            {
+                "title":"MCA",
+                "course":"Master Of Computer Application",
+                "institution":"Madras University",
+                "year":"2021 - Waiting for the Certificates"
+            },
+            {
+                "title":"Bsc.Mathematics",
+                "course":"Batchular Of Science in Mathematics",
+                "institution":"Madras Christian College",
+                "year":"2018"
+            },
+            {
+                "title":"HSC",
+                "course":"Higher Secondary School Certificate",
+                "institution":"SSRM School",
+                "year":"2015"
+            },
+            {
+                "title":"SSLC",
+                "course":"Secondary School Leaving Certificate",
+                "institution":"SVVM School",
+                "year":"2013"
+            }
+        ]
+    }
+}
