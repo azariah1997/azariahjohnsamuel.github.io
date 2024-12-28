@@ -2,6 +2,17 @@
     "profile":{
         "projects":[
             {
+    "tagName": "Ford",
+    "title": "Ford - Ford Application",
+    "skills": "React JS, JavaScript, AEM (Adobe Experience Manager), HTML5, SCSS, JSON",
+    "description": "The Ford Application is designed to provide dynamic, interactive features for accessory sales. Developed with React JS for the front end, the application ensures fast, responsive, and user-friendly interfaces, optimized for performance across diverse devices and browsers. AEM is used for content management and smooth integration with back-end systems.",
+    "responsiblities": "Led the development of user-facing features using React JS. Optimized the application for performance across multiple devices and browsers. Coordinated with back-end developers to enhance usability. Managed the project using agile methodologies, including daily stand-ups and sprint planning.",
+    "size": "7",
+    "location": "chennai",
+    "iconEnable": true,
+    "logo": "ford.svg"
+},
+            {
                 "tagName":"AbbVie",
                 "title":"AbbVie - Sypher",
                 "skills":"Vuejs, JavaScript, Chartjs, Vuetify, HTML 5, SCSS, JSON,and Visual studio code.",
